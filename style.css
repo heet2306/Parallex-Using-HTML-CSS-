@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(istockphoto-185215907-612x612.jpg);
+  background-size: cover;
+  background-position: center;
+  display: table;
+}
+.box2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(360_F_571273548_6cSIo7Cqwjv82EHk3MP8Nsv2NZb6Ht3H.jpg);
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}
+.box3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(191842443-destruction-of-planets-concept-art-illustration-background-image.jpg);
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 48px;
+  color: #fff;
+  margin: 0px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  background-attachment: fixed;
+}
